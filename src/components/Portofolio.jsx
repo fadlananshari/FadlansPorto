@@ -17,8 +17,8 @@ const Portofolio = () => {
       <p data-aos="fade-up" data-aos-duration="1100" className="mb-5">
         Here are some projects that I have worked on previously. Please feel free to take a look.
       </p>
-      <div className="grid xl:grid-flow-col xl:grid-cols-4 gap-10 overflow-hidden">
-        <a data-aos="fade-up" data-aos-duration="1200" href="http://sekolahkakseto.sch.id" className="max-w-sm bg-white border border-gray-200 rounded-lg shadow hover:bg-blue-400 hover:text-white hover:shadow-xl duration-500 mx-auto">
+      <div className="grid xl:grid-flow-col xl:grid-cols-4 gap-10 overflow-hidden pb-10 px-4">
+        <a data-aos="fade-up" data-aos-duration="1200" href="http://sekolahkakseto.sch.id" className="max-w-sm bg-white rounded-2xl shadow hover:shadow-xl duration-500 mx-auto">
           <div className="">
             <img className="rounded-t-lg" src={Mockup1} alt="" />
           </div>
@@ -33,7 +33,7 @@ const Portofolio = () => {
           data-aos="fade-up"
           data-aos-duration="1200"
           href="https://ecommerce-three-swart-28.vercel.app/"
-          className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:bg-blue-400 hover:text-white duration-500 mx-auto"
+          className="max-w-sm bg-white rounded-2xl shadow hover:shadow-xl duration-500 mx-auto"
         >
           <div>
             <img className="rounded-t-lg" src={Mockup2} alt="" />

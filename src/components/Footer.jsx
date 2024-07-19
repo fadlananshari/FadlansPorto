@@ -6,7 +6,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   return (
     <>
-      <footer id='contact' className="bg-white rounded-lg dark:bg-gray-900 m-4 font-montserrat">
+      <footer id='contact' className="bg-white rounded-lg dark:bg-gray-900 font-montserrat">
         <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
           <div className="grid grid-flow-row gap-7">
             <a href="" className="flex font-montserrat text-blue-400 text-2xl md:text-3xl font-bold">
