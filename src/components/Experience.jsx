@@ -29,7 +29,7 @@ const Experience = () => {
         </div>
         <div className="grid grid-flow-row gap-7 pb-5 mt-7 md:mt-0 overflow-hidden">
           <h4 data-aos="fade-up" data-aos-duration="1000" className="font-bold text-lg">Experience</h4>
-          <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 px-6 md:px-10 shadow rounded-xl w-max hover:shadow-lg">
+          <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 px-10 shadow rounded-xl w-full sm:w-max hover:shadow-lg">
             <img src={SKS} alt="" className="w-16 my-auto" />
             <div>
               <h4 className="font-bold">Programmer Intern</h4>
@@ -38,7 +38,7 @@ const Experience = () => {
               <small>February 2024 - June 2024</small>
             </div>
           </div>
-          <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 pl-6 pr-3 md:pl-10 md:pr-6 shadow rounded-xl w-max hover:shadow-lg">
+          <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 pl-10 pr-6 shadow rounded-xl w-full sm:w-max hover:shadow-lg">
             <img src={InfiniteLearning} alt="" className="w-16 my-auto bg-black" />
             <div>
               <h4 className="font-bold">Web Development Mentee</h4>
