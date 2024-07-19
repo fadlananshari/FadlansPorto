@@ -35,7 +35,7 @@ const Experience = () => {
               <h4 className="font-bold">Programmer Intern</h4>
               <p className="text-sm">Yayasan Kazeto Putra Perkasa</p>
               <p className="text-sm">South Tangerang, Banten</p>
-              <small>February - June</small>
+              <small>February 2024 - June 2024</small>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 pl-6 pr-3 md:pl-10 md:pr-6 shadow rounded-xl w-max hover:shadow-lg">
@@ -44,7 +44,7 @@ const Experience = () => {
               <h4 className="font-bold">Web Development Mentee</h4>
               <p className="text-sm">PT Kinema Systrans Multimedia</p>
               <p className="text-sm">Batam, Riau</p>
-              <small>February - June</small>
+              <small>August 2023 - December 2023</small>
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@ const Hero = () => {
     AOS.init();
   }, []);
   return (
-    <div id='about' className="pt-20 xl:pt-36 text-6xl mx-auto font-montserrat">
+    <div id="about" className="pt-20 xl:pt-36 text-6xl mx-auto font-montserrat">
       <div className="relative overflow-hidden h-[80vh] md:h-[65vh] text-center lg:text-start">
         <div className="absolute grid lg:grid-flow-col lg:gap-20 xl:gap-32 md:mt-10 mx-auto overflow-hidden">
           <div className="" data-aos="fade-up" data-aos-duration="1400">
@@ -22,7 +22,7 @@ const Hero = () => {
               Muhamad Fadlan Anshari, <span className="text-blue-400">Web</span> Developer
             </h1>
             <p className="text-base">
-              A student of Informatics Engineering at Indonesian Institute of Technology. Having entry level skills in PHP, Javascript programming languages as well as HTML and CSS. Have a desire to develop skills in the field of web
+              A Computer Science student at the Institute of Technology Indonesia with experience in web programming, particularly with React.js, Bootstrap, Tailwind, and Express.js.. Have a desire to develop skills in the field of web
               programming.
             </p>
             <a href="#" className="font-semibold py-3 px-5 bg-blue-400 hover:bg-blue-500 rounded-md text-white text-base">

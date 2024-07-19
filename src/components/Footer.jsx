@@ -14,24 +14,24 @@ const Footer = () => {
               /MYPORTO
               <FaGreaterThan />
             </a>
-            <ul className="font-montserrat font-medium text-lg grid grid-flow-row gap-2">
+            <ul className="font-montserrat font-medium text-lg grid grid-flow-row md:gap-2">
               <li>
-                <a href="#about" className="block py-2 px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
+                <a href="#about" className="block py-2 md:px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
                   ABOUT
                 </a>
               </li>
               <li>
-                <a href="#experience" className="block py-2 px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
+                <a href="#experience" className="block py-2 md:px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
                   EXPERIENCE
                 </a>
               </li>
               <li>
-                <a href="#portfolio" className="block py-2 px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
+                <a href="#portfolio" className="block py-2 md:px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
                   PORTFOLIO
                 </a>
               </li>
               <li>
-                <a href="#contact" className="block py-2 px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
+                <a href="#contact" className="block py-2 md:px-3 text-gray-900 rounded md:p-0 hvr-underline-from-center w-max">
                   CONTACT
                 </a>
               </li>
