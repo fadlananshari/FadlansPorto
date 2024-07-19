@@ -12,7 +12,7 @@ const Hero = () => {
   return (
     <div id="about" className="pt-20 xl:pt-36 text-6xl mx-auto font-montserrat">
       <div className="relative overflow-hidden h-[80vh] md:h-[65vh] text-center lg:text-start">
-        <div className="absolute grid lg:grid-flow-col lg:gap-20 xl:gap-32 md:mt-10 mx-auto overflow-hidden">
+        <div className="absolute grid lg:grid-flow-col lg:gap-20 xl:gap-32 mt-5 md:mt-10 mx-auto overflow-hidden">
           <div className="" data-aos="fade-up" data-aos-duration="1400">
             <img src={Profile} alt="" className="left-0 w-[150px] md:w-[230px] lg:w-[350px] bg-blue-300 rounded-full mx-auto" />
           </div>

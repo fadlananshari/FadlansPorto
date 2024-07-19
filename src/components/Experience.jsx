@@ -14,7 +14,7 @@ const Experience = () => {
       <div className="grid md:grid-flow-col mt-10">
         <div className='overflow-hidden'>
           <h4 data-aos="fade-up" data-aos-duration="1000" className="font-bold text-lg">Education History</h4>
-          <div className="grid grid-flow-row gap-10 border-l border-slate-400 p-5 mt-5 overflow-hidden">
+          <div data-aos="fade-up" data-aos-duration="1000" className="grid grid-flow-row gap-10 border-l border-slate-400 p-5 mt-5 overflow-hidden">
             <div data-aos="fade-up" data-aos-duration="1000">
               <h4 className="font-bold">Computer Science</h4>
               <p>Indonesian Institute of Technology, Bacholar Degree</p>
