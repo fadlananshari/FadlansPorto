@@ -25,7 +25,7 @@ const Hero = () => {
               A Computer Science student at the Institute of Technology Indonesia with experience in web programming, particularly with React.js, Bootstrap, Tailwind, and Express.js.. Have a desire to develop skills in the field of web
               programming.
             </p>
-            <a href="#" className="font-semibold py-3 px-5 bg-blue-400 hover:bg-blue-500 rounded-md text-white text-base">
+            <a href="/Muhamad_Fadlan_Anshari-Resume.pdf" download="Muhamad_Fadlan_Anshari-Resume.pdf" className="font-semibold py-3 px-5 bg-blue-400 hover:bg-blue-500 rounded-md text-white text-base">
               Download CV
             </a>
           </div>

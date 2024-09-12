@@ -6,6 +6,7 @@ import { FaReact } from 'react-icons/fa';
 import { FaPhp } from 'react-icons/fa';
 import { SiExpress } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
+import { FaLaravel } from "react-icons/fa";
 import { FaGithub } from 'react-icons/fa';
 import { IoLogoJavascript } from "react-icons/io5";
 import { GrMysql } from "react-icons/gr";
@@ -40,6 +41,9 @@ const About = () => {
       </div>
       <div>
         <SiExpress  className='mx-5 text-5xl md:text-7xl'/>
+      </div>
+      <div>
+        <FaLaravel className='mx-5 text-5xl md:text-7xl hover:text-red-600 duration-300'/>
       </div>
       <div>
         <GrMysql className='mx-5 text-5xl md:text-7xl hover:text-blue-400 duration-300'/>
