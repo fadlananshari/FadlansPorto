@@ -41,7 +41,7 @@ const Portofolio = () => {
             <p className="mb-3 font-normal0">Furniro Furniture landing page, built with React and Bootstrap, showcasing a sleek and user-friendly e-commerce experience for furniture shopping.</p>
           </div>
         </a>
-        <a data-aos="fade-up" data-aos-duration="1200" href="https://github.com/fadlananshari/Capstone_Digitalent_JWD" className="max-w-sm bg-white rounded-2xl shadow hover:shadow-xl duration-500 mx-auto">
+        <a data-aos="fade-up" data-aos-duration="1200" href="https://destinize-liard.vercel.app/" className="max-w-sm bg-white rounded-2xl shadow hover:shadow-xl duration-500 mx-auto">
           <div className="">
             <img className="rounded-t-lg" src={Mockup3} alt="" />
           </div>
