@@ -18,7 +18,7 @@ const Experience = () => {
             <div data-aos="fade-up" data-aos-duration="1000">
               <h4 className="font-bold">Computer Science</h4>
               <p>Indonesian Institute of Technology, Bacholar Degree</p>
-              <small className="text-slate-700">2021 - Present &bull; South Tangerang, Banten</small>
+              <small className="text-slate-700">2021 - 2025 &bull; South Tangerang, Banten</small>
             </div>
             <div data-aos="fade-up" data-aos-duration="1000">
               <h4 className="font-bold">Natural Science</h4>
@@ -29,6 +29,15 @@ const Experience = () => {
         </div>
         <div className="grid grid-flow-row gap-7 pb-5 mt-7 md:mt-0 overflow-hidden px-2">
           <h4 data-aos="fade-up" data-aos-duration="1000" className="font-bold text-lg">Experience</h4>
+          <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 px-6 md:px-10 shadow rounded-xl w-full sm:w-max hover:shadow-lg">
+            <img src={UV} alt="" className="w-16 my-auto" />
+            <div>
+              <h4 className="font-bold">Frontend Engineer Intern</h4>
+              <p className="text-sm">PT Trimegah Karya Pratama Tbk</p>
+              <p className="text-sm">South Jakarta, DKI Jakarta</p>
+              <small>September 2025 - Present</small>
+            </div>
+          </div>
           <div data-aos="fade-up" data-aos-duration="1000" className="flex gap-4 md:gap-10 py-4 px-6 md:px-10 shadow rounded-xl w-full sm:w-max hover:shadow-lg">
             <img src={SKS} alt="" className="w-16 my-auto" />
             <div>
