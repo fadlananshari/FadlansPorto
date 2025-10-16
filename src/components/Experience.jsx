@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import InfiniteLearning from '../assets/Untitled.png';
 import SKS from '../assets/logo-sks.png';
+import UV from '../assets/LOGO_ULTRA-VOUCHERNew-01.png';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
